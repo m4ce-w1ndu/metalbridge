@@ -1,0 +1,9 @@
+extracted/
+recon-output/
+build/
+target/
+*.qcow2
+*.img
+*.iso
+*.dmg
+*.log
