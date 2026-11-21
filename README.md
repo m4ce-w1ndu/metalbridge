@@ -1,4 +1,4 @@
-# pvg-linux-host
+# metalbridge - Apple Paravirtualized GPU host-side support for Linux KVM 
 
 Goal: a Linux host-side implementation of Apple's paravirtualized GPU (PVG) device
 for x86-64 macOS guests, so that the guest's own Metal driver renders using the
